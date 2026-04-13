@@ -16,3 +16,4 @@ mlruns/
 coverage.xml
 htmlcov/
 data/
+venv/
